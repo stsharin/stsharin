@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ***[MERN Projects](https://github.com/stsharin/SuperHero-Network)***
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning ***Full Stack Development***
 
 - 💬 Ask me about ***JavaScript, Node.js, React.js, MongoDB, Express.js***
 
@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **stssharin@gmail.com**
+- 📫 How to reach me ***stssharin@gmail.com***
 
 - ⚡ Fun fact ***I like to draw and read sci-fi books.***
 

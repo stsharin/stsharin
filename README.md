@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sharin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"width="30px"></h1>
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+<h3 align="center">I'm a passionate Web Developer.</h3>
 
 
 ## About Me
@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 💬 Ask me about JavaScript, Node.js, React.js, MongoDB, Express.js
+
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
@@ -41,8 +43,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/saraban-tasnim-sharin/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/stsharin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/saraban-tasnim-sharin/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 

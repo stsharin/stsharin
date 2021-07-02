@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[MERN Projects](https://github.com/stsharin/SuperHero-Network)**
 
-- 🌱 I’m currently learning ***Full Stack Development***
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about ***JavaScript, Node.js, React.js, MongoDB, Express.js***
 

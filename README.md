@@ -4,11 +4,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on ***[MERN Projects](https://github.com/stsharin/SuperHero-Network)***
+- 🔭 I’m currently working on ***[MERN Projects](https://coders-book-shop.web.app/)***
 
-- 🌱 I’m currently learning ***[Full Stack Development]()***
+- 🌱 I’m currently learning ***Full Stack Development***
 
-- 💬 Ask me about ***[JavaScript, Node.js, React.js, MongoDB, Express.js]()***
+- 💬 Ask me about ***JavaScript, Node.js, React.js, MongoDB, Express.js***
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me ***stssharin@gmail.com***
 
-- ⚡ Fun fact ***[I like to draw and read sci-fi books.]()***
+- ⚡ Fun fact ***I like to draw and read sci-fi books.***
 
 ## Languages and Tools:
 

@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Sharin</h2>
-<h1 align="center">I'm a passionate Web Developer.</h3>
+<h1 align="center">A passionate Web Developer.</h3>
 
 
 ## About Me

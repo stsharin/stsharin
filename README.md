@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ***[MERN Projects](https://coders-book-shop.web.app/)***
 
-- 🌱 I’m currently learning ***Full Stack Development***
+- 🌱 I’m currently learning ***MERN Stack***
 
 - 💬 Ask me about ***JavaScript, Node.js, React.js, MongoDB, Express.js***
 

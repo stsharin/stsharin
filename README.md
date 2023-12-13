@@ -3,9 +3,6 @@
 Hey there! I'm Saraban Tasnim Sharin, a passionate Software Quality Assurance enthusiast eager to delve into the world of testing and quality assurance in software development.
 
 ![1_kEiJQRyscYoR7Ytg1lrLDg](https://github.com/stsharin/stsharin/assets/37589935/e717ea34-0671-4353-aaa3-493aad555722)
-## About Me
-
-I recently embarked on my journey into the realm of Software Quality Assurance. I have a strong interest in ensuring the reliability, functionality, and usability of software applications.
 
 ## What You'll Find Here
 This space hosts my projects related to SQA, where I explore various testing methodologies, tools, and best practices. As a fresher, I'm enthusiastic about learning and contributing to the quality of software.
@@ -21,8 +18,5 @@ I'm keen on connecting with fellow SQA enthusiasts, developers, and professional
   - Performance Testing
 - Currently learning:
   - Web Automation
-
-## Current Focus
-Currently, I'm honing my skills to deepen my understanding of testing methodologies and their practical application.
 
 Feel free to explore my projects, offer feedback, or connect with me. Let's learn and grow together in the fascinating world of Software Quality Assurance! 😊

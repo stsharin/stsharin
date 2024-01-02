@@ -6,9 +6,6 @@ Hey there! I'm Saraban Tasnim Sharin, a passionate Software Quality Assurance en
 ## What You'll Find Here
 This space hosts my projects related to SQA, where I explore various testing methodologies, tools, and best practices. As a fresher, I'm enthusiastic about learning and contributing to the quality of software.
 
-## Let's Connect
-I'm keen on connecting with fellow SQA enthusiasts, developers, and professionals in the industry. Feel free to reach out for discussions, mentorship, or collaboration opportunities!
-
 ### Skills & Tools
 - Proficient in:
   - Manual testing techniques
